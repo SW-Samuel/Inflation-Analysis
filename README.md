@@ -13,7 +13,7 @@ The analysis covers data visualization, correlation analysis, feature engineerin
 The dataset used is from **IBGE (Instituto Brasileiro de Geografia e Estatística)**, containing monthly IPCA variation data from **2012 to 2024**.
 
 - 📅 **Period:** 2012 - 2024  
-- 🏢 **Source:** IBGE (Brazilian Institute of Geography and Statistics)
+- 🏢 **Source:** [Dataset Inflação](https://www.kaggle.com/datasets/fidelissauro/inflacao-brasil/data)
 
 ## 🔍 Project Steps
 
